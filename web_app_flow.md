@@ -34,3 +34,28 @@
 
 ![image1](./assets/athletes_athlete-invited.png)
 
+### Athletes - Athlete details pending 
+
+![image1](./assets/athlete-details_pending.png)
+
+### Athletes - Athlete details pending 
+
+![image1](./assets/athlete-details_confirmed.png)
+
+## Profile Flow
+
+### Profile
+
+![image1](./assets/profile.png)
+
+### Profile Password
+
+![image1](./assets/profile_password.png)
+
+### Messaging
+
+![image1](./assets/messaging.png)
+
+## MCD 
+
+![image1](./assets/mcd.png)
